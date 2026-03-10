@@ -129,3 +129,20 @@ Information on differences between ZALiA versions
 
 #### [Various]
 > Other various fixes and adjustments.
+
+---
+<br>
+
+## Difference Between Beta-Build 1.7.7.0 and Beta-Build 1.7.9.0
+
+#### [Fix] Logically Unwinnable Rando Scenerio
+> In rando seeds that required the player to go through Saria, across Saria Bridge, and through Death Mtn, but Saria had been rando'd into Old Kasuto, logic did not consider that the player would need the CROSS item to traverse Old Kasuto. The player could potentially dodge all the invisible enemies, or grind their defense level to tank them, but logically, Old Kasuto is considered untraversable without the CROSS item which reveals the invisible enemies.
+
+#### [Fix] Rando Hints Not Working
+> Rando hints are toggable in-game regardless if the player chose the option in rando setup. However, they were not working if not chosen in rando setup and then enabled in-game.
+
+---
+<br>
+
+#### [Various]
+> Other various fixes and adjustments.
