@@ -147,7 +147,7 @@ Information on differences between ZALiA versions
 #### [Fix] Player Could Fall Through Top of Ganon-1
 > Ganon is a big rectangle stone statue which the player can get on top of and potentially clip down into, getting stuck. This has been fixed so the player cannot clip into it.
 
-#### [Fix] Rando-only Cave is in Regular Mode
+#### [Fix] Rando-only Cave Appearing in Regular Mode
 > There is a cave next to the South Parapa Desert heart piece location that only appears in rando but was showing in regular-mode. This has been fixed so it doesn't show in regular-mode.
 
 ---
