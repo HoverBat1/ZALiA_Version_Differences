@@ -150,6 +150,9 @@ Information on differences between ZALiA versions
 #### [Fix] Rando-only Cave Appearing in Regular Mode
 > There is a cave next to the South Parapa Desert heart piece location that only appears in rando but was showing in regular-mode. This has been fixed so it doesn't show in regular-mode.
 
+#### [Fix] Trophy Pedistal Showing Wrong Sprite
+> In the center of Ruto, there's a pedistal that displays the **TROPHY** quest item after returning it. However, the pedistal was displaying an unused sprite that looks like a bottle of liquid. This has been fixed.
+
 ---
 <br>
 
