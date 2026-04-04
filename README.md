@@ -169,3 +169,11 @@ Information on differences between ZALiA versions
 
 #### [Fix] Wrong Blooby Position
 > A Blooby(the same kind of creatures in the Darunia downstab minigame) in the caves beyond the Dark Link battle room was in the wrong position. This has been corrected.
+
+---
+<br>
+
+## Difference Between 1.7.11.0 and 1.7.12.0
+
+#### [Addition] New Player Skin
+> Player skin **Shantae** by _JirachiKid_ has been added.
